@@ -96,7 +96,7 @@ flutter run
 ### 모바일 앱
 - Flutter WebView (Vue.js 기반 웹앱을 앱에서 실행)
 
-## 폴더 구조 (Directory Structure) (선택 사항)
+## 폴더 구조 (Directory Structure)
 
 ```bash
 SmartLicense/ # Vue.js 프론트엔드

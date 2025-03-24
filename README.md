@@ -29,7 +29,7 @@ SmartLicense는 자격증 기출문제를 풀어 실전 감각을 높이고, 체
 ### 백엔드(Spring Boot)
 ```bash
 # 프로젝트 클론
-git clone https://github.com/popcorn0125/SmartLicense.git
+git clone https://github.com/gyk419/SmartLicense.git
 git checkout back-end
 
 # 필수 환경 변수 설정 (application.properties)
@@ -48,7 +48,7 @@ MeetpointApplication.java 실행
 ### 프론트엔드(Vue.js)
 ```bash
 # 프로젝트 클론
-git clone https://github.com/popcorn0125/SmartLicense.git
+git clone https://github.com/gyk419/SmartLicense.git
 git checkout front-end
 
 # 패키지 설치
@@ -61,7 +61,7 @@ npm run serve
 ### 앱(Flutter WebView)
 ```bash
 # 프로젝트 클론
-git clone https://github.com/your-repo/smartlicense-app.git
+git clone https://github.com/gyk419/SmartLicense.git
 git checkout app
 
 # 패키지 설치
